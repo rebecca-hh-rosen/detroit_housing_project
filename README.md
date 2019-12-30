@@ -7,15 +7,7 @@ This ML classification project explores housing blight in Detroit, MI in an atte
 3. A post-hoc analysis of the final model to better understand the problem and develop next steps
 
 
-EDA:
-![alt text](file:///Users/rebeccarosen/Desktop/Screen%20Shot%202019-12-30%20at%203.52.33%20PM.png)
-
-Hypotheses:
-
-Conclusions:
-
 See full slides for this project's presentation at https://bit.ly/2MCz2Ob
-
 
 
 
