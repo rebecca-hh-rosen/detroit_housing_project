@@ -13,13 +13,13 @@ See slides for this project's presentation at https://bit.ly/2MCz2Ob
 
 Reflections:
 
-The final Decision Tree model does well at classfication with metrics like the following -
-Accuracy : 94.69
-F1-Score : 0.60
-Precision Score : 0.589
-Recall Score : 0.621
+The final **Decision Tree** model does well at binary classfication, with metrics like the following:
+- Accuracy : 94.69
+- F1-Score : 0.60
+- Precision Score : 0.589
+- Recall Score : 0.621
 
-However, with further evaluation on feature importance, it is likely that the total due per parcel (the most important feature at 0.534 importance) is too highly correlated with the target varialbe (total tickets) to provide an independent prediction. As such, the next iteration of this project apply the methods that mitigate this confluence.
+However, feature importance evaluation, the total due per parcel (the most important feature at 0.534 importance) is too highly correlated with the target varialbe (total tickets) to provide an independent prediction. As such, the next iteration of this project apply the methods that mitigate this confluence.
 
 These methods may include:
 
