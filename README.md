@@ -1,7 +1,7 @@
 # detroit_housing_project
 ML classification project on housing blight in Detroit, MI
 
-
+See slides for this project at https://bit.ly/2MCz2Ob
 
 
 Reflections:
