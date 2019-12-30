@@ -11,7 +11,7 @@ This ML classification project explores housing blight in Detroit, MI in an atte
 See slides for this project's presentation at https://bit.ly/2MCz2Ob
 
 
-Reflections:
+**Reflections:**
 
 The final **Decision Tree** model does well at binary classfication, with metrics like the following:
 - Accuracy : 94.69
