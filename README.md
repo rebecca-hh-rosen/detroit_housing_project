@@ -8,6 +8,7 @@ This ML classification project explores housing blight in Detroit, MI in an atte
 
 
 See full slides for this project's presentation at https://bit.ly/2MCz2Ob
+All data can be found for free at Detroit's Open Data Portal https://data.detroitmi.gov/
 
 
 
