@@ -1,4 +1,4 @@
-# detroit_housing_project
+# Detroit In Transition
 
 This ML classification project explores housing blight in Detroit, MI in an attempt to better understand evolving real estate trends in the city. The project consists of 3 parts:
 
