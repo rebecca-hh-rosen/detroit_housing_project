@@ -8,15 +8,20 @@ This ML classification project explores housing blight in Detroit, MI in an atte
 
 
 # 1. EDA
-The charts below show a couple of findings confirm my two hypotheses:
+The charts below show a couple of findings confirm my two of my hypotheses:
 
+## On blight trends as it relates to Detroiters:
+!['blight chart'](https://github.com/rebecca-hh-rosen/detroit_housing_project/blob/master/blight_chart.png)
+
+## And blight trends as it relates to homeowners vs rentals:
+!['rentals chart'](https://github.com/rebecca-hh-rosen/detroit_housing_project/blob/master/rentals_chart.png)
 
 
 The findings are further complicated by considering more about homeowners vs folks who put their homes up for rent. Future iterations of this project will include a more detailed breakdown about real estate trends for various demographics.
 
 
 
-**Reflections:**
+# 2. Modeling 
 
 The final **Decision Tree** model does well at binary classfication, with metrics like the following:
 - Accuracy : 94.69
@@ -24,6 +29,12 @@ The final **Decision Tree** model does well at binary classfication, with metric
 - Precision Score : 0.589
 - Recall Score : 0.621
 
+Note: The majority of top indicators were features engineered from the raw data:
+!['features chart'](https://github.com/rebecca-hh-rosen/detroit_housing_project/blob/master/features_chart.png)
+
+
+
+# 3. Post-Hoc Analyses
 However, feature importance evaluation, the total due per parcel (the most important feature at 0.534 importance) is too highly correlated with the target varialbe (total tickets) to provide an independent prediction. As such, the next iteration of this project apply the methods that mitigate this confluence.
 
 These methods may include:
