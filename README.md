@@ -35,9 +35,9 @@ Note: The majority of top indicators were features engineered from the raw data:
 
 
 # 3. Post-Hoc Analyses
-However, feature importance evaluation, the total due per parcel (the most important feature at 0.534 importance) is too highly correlated with the target varialbe (total tickets) to provide an independent prediction. As such, the next iteration of this project apply the methods that mitigate this confluence.
+However, feature importance evaluation, the total due per parcel (the most important feature at 0.534 importance) is too highly correlated with the target varialbe (total tickets) to provide an independent prediction. As such, the next iteration of this project applies methods that mitigate this confluence.
 
-These methods may include:
+These methods include:
 
 - Up and Down Sampling
 - Various other modeling techniques such as grid search
